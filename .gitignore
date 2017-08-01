@@ -1,1 +1,3 @@
 models_urls.txt
+*.tar.gz
+xzf/
